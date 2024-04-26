@@ -1,0 +1,169 @@
+{
+    'Inspection ID': '78474',
+    Header: {
+      'Surveyed By': 'K. Badeaux ',
+      'Certificate Number': 'U-214-06020471',
+      Owner: 'City of Opelousas ',
+      Customer: 'Morgan Goudeaux ',
+      'Drainage Area': 'Opl ps#09',
+      Date: '2023-03-21',
+      Time: '14:24',
+      Street: 'Parkveiw ',
+      City: 'Opelousas,la',
+      'Location Details': '1928 parkveiw ',
+      'Manhole Number': '5855',
+      'Top of Frame to Invert': '6.7',
+      'Top of Frame to Grade': '',
+      'MH Use': 'SS',
+      Purpose: 'F',
+      'Pre-Cleaning': 'N',
+      'Date Cleaned': '',
+      Weather: '1',
+      'Location Code': 'Y',
+      'Surface Type': 'D',
+      'Potential for Runoff': 'N',
+      'Access Type': 'AMH',
+      'Inspection Status': 'SI',
+      'Evidence of Surcharge': 'No'
+    },
+    Cover: {
+      'Cover Shape': 'C',
+      'Cover Size': '24',
+      'Cover Material': 'CAS',
+      'Cover Type': 'Solid',
+      'Hole Diameter': 'A',
+      'Cover Frame Fit': 'G'
+    },
+    'Cover Insert': { 'Insert Type': 'N' },
+    'Cover Adjustment Ring': { 'Adjustment Ring Type': 'N' },
+    Frame: {
+      'Frame Material': 'CAS',
+      'Frame Condition': 'Sound',
+      'Seal Condition': 'Sound',
+      'Frame Offset ': 'No'
+    },
+    Chimney: {
+      'Chimney Material': 'CR',
+      'Chimney Inflow': 'N',
+      'Chimney Clear Opening': '28',
+      'Chimney Lining Interior': 'NC'
+    },
+    Cone: {
+      'Cone Type': 'CC',
+      'Cone Material': 'CR',
+      'Cone Lining Interior': 'NC'
+    },
+    Wall: {
+      'Wall Diam': '48',
+      'Wall Material': 'CR',
+      'Wall Lining Interior': 'NC'
+    },
+    Bench: {
+      'Bench Present': 'Y',
+      'Bench Material': 'CN',
+      'Bench Lining': 'NC'
+    },
+    Channel: {
+      'Channel Installed': 'YES',
+      'Channel Material': 'VC',
+      'Channel Type': 'P'
+    },
+    'Manhole Steps': { 'Step Number': '0' },
+    'Pipe Connections': [ [Object], [Object] ],
+    Recommendations: {
+      'Repair Pipe to Manhole Connections': 'No',
+      'Repair Manhole Bench/Channel': 'No',
+      'Manhole Void Repair (Patching)': 'No',
+      'Manhole Infiltration Repair (Plugging)': 'No',
+      'Manhole Infiltration Repair (Grout Injection)': 'No',
+      'Manhole Riser Ring (Concrete)': 'No',
+      'Manhole Riser Ring (Cast Iron)': 'No',
+      'Remove & Reset Existing M.H. Frame & Cover': 'No',
+      'Replace Existing Manhole Frame & Cover': 'No',
+      'Manhole Street Patch': 'No',
+      'Manhole Interior Lining': 'No'
+    }
+  },
+  {
+    'Inspection ID': '78473',
+    Header: {
+      'Surveyed By': 'K. Badeaux ',
+      'Certificate Number': 'U-214-06020471',
+      Owner: 'City of Opelousas ',
+      Customer: 'Morgan Goudeaux ',
+      'Drainage Area': 'Opl ps#09',
+      Date: '2023-03-21',
+      Time: '13:54',
+      Street: 'Parkveiw ',
+      City: 'Opelousas,la',
+      'Location Details': '1904 parkveiw ',
+      'Manhole Number': '5845',
+      'Top of Frame to Invert': '3.9',
+      'Top of Frame to Grade': '',
+      'MH Use': 'SS',
+      Purpose: 'F',
+      'Pre-Cleaning': 'N',
+      Weather: '1',
+      'Location Code': 'C',
+      'Surface Type': 'A',
+      'Potential for Runoff': 'N',
+      'Access Type': 'AMH',
+      'Inspection Status': 'SI',
+      'Evidence of Surcharge': 'No'
+    },
+    Cover: {
+      'Cover Shape': 'C',
+      'Cover Size': '24',
+      'Cover Material': 'CAS',
+      'Cover Type': 'Solid',
+      'Hole Diameter': 'A',
+      'Cover Frame Fit': 'G'
+    },
+    'Cover Insert': { 'Insert Type': 'N' },
+    'Cover Adjustment Ring': { 'Adjustment Ring Type': 'N' },
+    Frame: {
+      'Frame Material': 'CAS',
+      'Frame Condition': 'Sound',
+      'Seal Condition': 'Sound',
+      'Frame Offset ': 'No',
+      'Seal Inflow': 'N'
+    },
+    Chimney: {
+      'Chimney Material': 'CR',
+      'Chimney Inflow': 'N',
+      'Chimney Clear Opening': '28',
+      'Chimney Lining Interior': 'NC'
+    },
+    Cone: {
+      'Cone Type': 'CC',
+      'Cone Material': 'CR',
+      'Cone Lining Interior': 'NC'
+    },
+    Wall: {
+      'Wall Diam': '48',
+      'Wall Material': 'CR',
+      'Wall Lining Interior': 'NC'
+    },
+    Bench: { 'Bench Present': 'Y', 'Bench Material': 'XXX' },
+    Channel: {
+      'Channel Installed': 'YES',
+      'Channel Material': 'CN',
+      'Channel Type': 'F',
+      'Channel Exposure': 'F'
+    },
+    'Manhole Steps': { 'Step Number': '0' },
+    'Pipe Connections': [ [Object], [Object] ],
+    Recommendations: {
+      'Repair Pipe to Manhole Connections': 'No',
+      'Repair Manhole Bench/Channel': 'No',
+      'Manhole Void Repair (Patching)': 'No',
+      'Manhole Infiltration Repair (Plugging)': 'No',
+      'Manhole Infiltration Repair (Grout Injection)': 'No',
+      'Manhole Riser Ring (Concrete)': 'No',
+      'Manhole Riser Ring (Cast Iron)': 'No',
+      'Remove & Reset Existing M.H. Frame & Cover': 'No',
+      'Replace Existing Manhole Frame & Cover': 'No',
+      'Manhole Street Patch': 'No',
+      'Manhole Interior Lining': 'No'
+    }
+  },
